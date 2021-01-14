@@ -1,0 +1,8 @@
+#忽略 index.css 这个文件
+index.css
+
+#忽略 images文件夹 及其 目录下所有的文件
+images/
+
+#忽略 所有的名称中有 .gif 的文件
+*.gif
